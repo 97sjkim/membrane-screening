@@ -6,8 +6,6 @@ Code and data for benchmarking eight multitask machine-learning models for polym
 ## Contents
 
 ```text
-
-
 model/
   01_rf_fp_multitask.py
   02_xgb_fp_multitask.py
